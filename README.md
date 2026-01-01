@@ -9,7 +9,7 @@ This program teaches both — responsibly.
 
 2️⃣ Program Length
 
-24 months (2 years)
+18 months (1.5 years)
     Designed as an apprenticeship-style program, not a sprint.
     Identity systems take time to understand because mistakes are irreversible.
 
